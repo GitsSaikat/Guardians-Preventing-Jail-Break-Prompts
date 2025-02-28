@@ -1,8 +1,8 @@
 <h1 align="center">
   <a href="https://github.com/GitsSaikat/Guardians-Preventing-Jail-Break-Prompts">
-    <img src="figures/Guardian_LOGO.jpg" width="215" /></a><br>
-  <b>Guardians of the Agentic System: Preventing Many Shots Jailbreak with Agentic System 🛡️</b><br>
-  <b> Improving AI Systems with Self-Defense Mechanisms 🤖</b><br>
+    <img src="Guardian_LOGO.jpg" width="215" /></a><br>
+    <h1>Guardians of the Agentic System: Preventing Many Shots Jailbreak with Agentic System 🛡️</h1>
+    <h2>Improving AI Systems with Self-Defense Mechanisms 🤖</h2>
 </h1>
 
 <p align="center">
