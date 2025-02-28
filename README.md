@@ -1,3 +1,15 @@
+<h1 align="center">
+  <a href="https://github.com/GitsSaikat/Guardians-Preventing-Jail-Break-Prompts">
+    <img src="figures/Guardian_LOGO.jpg" width="215" /></a><br>
+  <b>Guardians of the Agentic System: Preventing Many Shots Jailbreak with Agentic System 🛡️</b><br>
+  <b> Improving AI Systems with Self-Defense Mechanisms 🤖</b><br>
+</h1>
+
+<p align="center">
+  📚 <a href="https://github.com/GitsSaikat/Guardians-Preventing-Jail-Break-Prompts">[GitHub Repository]</a> |
+  📝 <a href="https://arxiv.org/abs/2502.16750">[Paper]</a>
+</p>
+
 # Guardians of the Agentic System: Preventing Many Shots Jailbreak with Agentic System
 
 We have experimented and developed a defensive system for AI agents to protect themselves against adversarial prompt attacks and jailbreak attempts.
