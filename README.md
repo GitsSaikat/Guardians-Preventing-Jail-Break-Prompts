@@ -10,7 +10,7 @@
   📝 <a href="https://arxiv.org/abs/2502.16750">[Paper]</a>
 </p>
 
-# Guardians of the Agentic System: Preventing Many Shots Jailbreak with Agentic System
+
 
 We have experimented and developed a defensive system for AI agents to protect themselves against adversarial prompt attacks and jailbreak attempts.
 
