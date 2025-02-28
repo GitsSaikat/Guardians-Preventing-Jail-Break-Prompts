@@ -64,6 +64,6 @@ If you use this work in your research, please cite:
 
 ## Acknowledgments
 
-This research builds upon work in adversarial robustness and AI safety. Special thanks to:
+This research builds upon work and AI safety. Special thanks to:
 - Contributors and researchers in the AI safety community
 - Open-source AI/ML security projects
